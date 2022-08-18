@@ -1,7 +1,7 @@
 # North-Slave-LST
 The North Slave LST dataset is a lake surface temperature dataset for 535 lakes across the North Slave region of Canada
 
-The North_Slave_LST folder contains sample dataset of certain lake in the from of tar.gz files.
+The North_Slave_LST folder contains sample dataset of certain lake in the for of tar.gz files for each lake
 
 
 FILE NAMES AND MEANING
